@@ -1,5 +1,5 @@
 # Stage 1: Build the Go application
-FROM golang:1.22 as base
+FROM golang:1.22 AS base
 
 WORKDIR /app   
 
